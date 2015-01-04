@@ -1,0 +1,21 @@
+{
+  "name": "fluxy",
+  "version": "0.1.0",
+  "authors": [
+    "Gil Barbara <gilbarbara@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.0.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "end_of_line": {
+        "lf": 1
+    },
+    "indent_style": {
+        "tab": 1
+    },
+    "insert_final_newline": {
+        "true": 1
+    },
+    "quote_type": {
+        "single": 1
+    },
+    "space_after_anonymous_functions": {
+        "true": 1
+    },
+    "space_after_control_statements": {
+        "null": 1
+    },
+    "spaces_around_operators": {
+        "true": 1
+    },
+    "spaces_in_brackets": {
+        "hybrid": 1
+    },
+    "trim_trailing_whitespace": {
+        "true": 1
+    }
+}
